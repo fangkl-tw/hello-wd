@@ -1,3 +1,3 @@
 # hello-wd
-hello world testing\n
+hello world testing/n
 Have a nice day.
